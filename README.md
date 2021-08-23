@@ -1,2 +1,8 @@
 # geogpu.github.io
-地信教程和数值计算网站
+
+主分支作为 page 首页 其他分支剔除 action 自动部署
+https://geogpu.github.io/
+第二世界
+
+
+    "vite": "~2.0.5",
