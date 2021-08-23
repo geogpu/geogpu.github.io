@@ -1,0 +1,1 @@
+import{L as a,M as s,N as e,O as l,Q as n}from"./@vue.e665ac55.js";const t={},r=n("div",null,"lili ",-1);t.render=function(n,t){const u=a("v-app");return s(),e(u,null,{default:l((()=>[r])),_:1})};export{t as default};
