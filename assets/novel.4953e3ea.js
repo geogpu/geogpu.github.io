@@ -1,0 +1,1 @@
+import{L as n,M as e,N as a,O as l,Q as o}from"./@vue.7c4085bf.js";const s={},t=o("div",null,"novelnovelnovel",-1);s.render=function(o,s){const r=n("v-app");return e(),a(r,null,{default:l((()=>[t])),_:1})};export{s as default};

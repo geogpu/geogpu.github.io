@@ -1,1 +1,0 @@
-import{L as a,M as e,N as s,O as r,f as t,Q as n}from"./@vue.e665ac55.js";const u={},o=n("div",null,"aaa",-1);u.render=function(n,u){const l=a("router-view"),f=a("v-app");return e(),s(f,null,{default:r((()=>[o,t(l)])),_:1})};export{u as default};
