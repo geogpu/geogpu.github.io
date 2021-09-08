@@ -6,3 +6,9 @@ https://geogpu.github.io/
 
 
     "vite": "~2.0.5",
+
+
+
+<!-- 未打包 dev server-->
+http://localhost:8888/public/unpb/mdntest/sample6/index.html
+http://localhost:8888/dist/unpb/mdntest/sample6/index.html
