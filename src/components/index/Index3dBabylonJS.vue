@@ -1,7 +1,8 @@
 
 <template>
   <div>
-    <canvas class="CVS0 Index2dwith3d" id="indexBabylonCanvas"></canvas>
+    <canvas class="CVS0 Index2dwith3d"
+            id="indexBabylonCanvas"></canvas>
     <div class="CVS1 Index2dwith3d">test_canvas</div>
   </div>
 </template>
@@ -18,7 +19,7 @@ export default {
   props: {
     // ENV_TEST: { type: String }
   },
-  setup(props) {
+  setup (props) {
     const getViewer = async () => {
       console.log('-------------1', author)
       // Get the canvas DOM element
