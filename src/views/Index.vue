@@ -52,7 +52,7 @@ export default defineComponent({
     const selectLink = event => { onChangeContents(event.target.value) };
 
 
-    // 键盘事件 鼠标
+    // 全部键盘事件 鼠标
     document.onkeydown = event => {
       // 清除本次默认动作
       event.preventDefault();
